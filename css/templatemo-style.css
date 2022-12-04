@@ -654,14 +654,14 @@ header {
 /* Video Presentation Style */
 
 #video {
-  text-align: center;
+  text-align: left;
   background-color: #f4f4f4;
   padding: 100px 60px;
 }
 
 #video .section-heading {
   margin-bottom: 30px;
-  text-align: center;
+  text-align: left;
 }
 
 #video .section-heading h1 {
